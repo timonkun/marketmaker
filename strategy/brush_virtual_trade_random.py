@@ -5,7 +5,7 @@ date: 2018年10月09日
 按照设计好的K线数据刷成交单
 """
 import sys
-sys.path.append('/opt/quant/MarketMaker')
+sys.path.append('/opt/quant/marketmaker')
 import pandas as pd
 from datetime import datetime, timedelta
 from time import sleep
